@@ -984,3 +984,8 @@ f()
 // Output a -> e -> f -> h -> b -> c -> d -> g  | Ayusha
 // Output a -> e -> f -> h -> b -> c -> d -> g  | Anjali
 // Output a -> e -> f -> h -> b -> c -> d -> g  | Sandesh
+
+function addTwoNum(a, b) {
+    const sum = a + b;
+    return sum
+}
